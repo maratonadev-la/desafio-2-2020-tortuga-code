@@ -25,11 +25,11 @@
 
 Tortuga Code – es una plataforma de educación on-line y gratuita para todas y todos, enfocada en el aprendizaje de programación y tecnología.
 
-<div align="center">
+<!--<div align="center">
     <a href="https://youtu.be/i8RM8lpGD_E">
        <img width="50%" src="./Docs/Images/apr-02-es.png" alt='video'>
     </a>
-</div>
+</div>-->
 
 ## 2. Reto de negocio
 
