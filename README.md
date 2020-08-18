@@ -66,7 +66,7 @@ Para poder realizar este desafío, se deben cumplir con los siguientes requisito
 
 ### 4.3. Desarrollo
 
-La idea esencial del **Desafío 2** es crear un modelo basado en machine learning capaz de identificar las principales deficiencias del estudiante, permitiendo una tutoría personalizada del estudiante. Para simplificar el problema, se centrarán en los datos de cuatro asignaturas del curso de Tecnología: Data Science, Backend Web y Frontend Web. El participante trabajará con un conjunto de datos sintéticos proporcionados y creará una "pipeline", es decir, una cadena de pasos de pre-procesamiento y un modelo de clasificación. 
+La idea esencial del **Desafío 2** es crear un modelo basado en machine learning capaz de identificar las principales deficiencias del estudiante, permitiendo una tutoría personalizada del estudiante. Para simplificar el problema, se centrarán en los datos de tres asignaturas del curso de Tecnología: Data Science, Backend Web y Frontend Web. El participante trabajará con un conjunto de datos sintéticos proporcionados y creará una "pipeline", es decir, una cadena de pasos de pre-procesamiento y un modelo de clasificación. 
 
 En este repositorio el archivo ``cloud-pak-project-es-2.zip`` contiene un proyecto completo en Watson Studio ya con una solución básica lista, totalmente funcional. Puedes (y se recomienda) mejorar el modelo para obtener una mayor puntuación :)
 
