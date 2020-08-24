@@ -105,6 +105,9 @@ El tiempo de entrega no se incluye en el cálculo de la puntuación del desafío
 
 Mira el [video explicativo](#43-desarrollo) provisto en la Sección 4, o si lo deseas, revisa la documentación de los servicios involucrados en este desafío:
 
+- [Video Dudas Retos de la Maratón](https://www.youtube.com/watch?v=9HsfPf6QrLc)
+- [Video solución dudas comunes desafío 1 y 2](https://www.youtube.com/watch?v=vmiQ54bK65I)
+- [Video ¿Como mejorar el puntaje en los desafios 1 y 2?](https://www.youtube.com/watch?v=1VbxxVkd-xI)
 - [IBM Cloud Pak for Data as a Service (Watson Studio)](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?audience=wdp&context=cpdaas)
 - [IBM Watson Machine Learning](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/ml-overview.html)
 
