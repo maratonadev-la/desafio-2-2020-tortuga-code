@@ -94,7 +94,9 @@ Para hacer la entrega, debes acceder a la siguiente página: [https://tortuga.ma
  
 🚨 **PRUEBA TU SOLUCIÓN ANTES DE PRESENTARLA** 🚨
 
-Después de realizar las pruebas, haz clic en el botón en la esquina inferior derecha para ENVIAR TU SOLUCIÓN, como se muestra en la imagen a continuación, y completA el formulario con su dirección de correo electrónico con la que te registraste en MARATÓN 2020. 
+Después de realizar las pruebas, haz clic en el botón en la esquina inferior derecha para ENVIAR TU SOLUCIÓN, como se muestra en la imagen a continuación, y completa el formulario con su dirección de correo electrónico con la que te registraste en MARATÓN 2020. 
+
+<img src="./Docs/Images/TORTUGA_SEND.png" alt="es1"></a>
 
 
 ## 6. Sobre la evaluación
